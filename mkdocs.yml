@@ -1,7 +1,7 @@
 site_name: My Docs
 
-theme: readthedocs
-#theme: material
+#theme: readthedocs
+theme: material
 
 extra_css:
   - css/extra_css.css
