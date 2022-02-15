@@ -1,5 +1,5 @@
 ######Home
-#Central de Documentação de Projetos - Cia Hering
+# Central de Documentação de Projetos - Cia Hering
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

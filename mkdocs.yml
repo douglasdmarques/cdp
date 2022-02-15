@@ -1,9 +1,18 @@
-site_name: CDP - Cia Hering
+site_name: CDP
 
-#theme: readthedocs
-theme: material
-extra:
-  logo: docs/img/logo.png
+markdown_extensions:
+  - meta
+
+theme:
+  name: material
+  logo: img/logo.png
+  features:
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+  hide:
+    - toc
 
 extra_css:
   - css/extra_css.css
