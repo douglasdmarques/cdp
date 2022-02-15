@@ -1,8 +1,5 @@
 site_name: CDP
 
-markdown_extensions:
-  - meta
-
 theme:
   name: material
   logo: img/logo.png
@@ -12,8 +9,14 @@ theme:
     - navigation.tracking
     - navigation.indexes
     - navigation.tabs
-  hide:
-    - toc
+
+hide:
+  - navigation
+  - toc
+
+
+markdown_extensions:
+  - meta
 
 extra_css:
   - css/extra_css.css
