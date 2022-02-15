@@ -1,7 +1,9 @@
-site_name: My Docs
+site_name: CDP - Cia Hering
 
 #theme: readthedocs
 theme: material
+extra:
+  logo: docs/img/logo.png
 
 extra_css:
   - css/extra_css.css
