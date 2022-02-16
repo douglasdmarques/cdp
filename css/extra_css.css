@@ -1,13 +1,11 @@
-.md-header{
-    background-color: #1F65EB
-}
-
-.md-tabs{
-    background-color: #1f60dc
-}
-
 .md-footer{
      background-color: #172023de
+}
+
+[data-md-color-scheme="cia-hering"] {
+  --md-primary-fg-color:        #1F65EB;
+  --md-primary-fg-color--light: #1F65EB;
+  --md-primary-fg-color--dark:  #00D782;
 }
 
 .rst-content img{
