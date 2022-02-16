@@ -3,20 +3,34 @@ site_name: CDP
 theme:
   name: material
   logo: img/logo.png
+  language: pt-BR
   features:
     - navigation.top
     - navigation.instant
     - navigation.tracking
     - navigation.indexes
     - navigation.tabs
-
-hide:
-  - navigation
-  - toc
-
+  palette:
+    - scheme: cia-hering
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Modo Escuro
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Modo Claro
 
 markdown_extensions:
   - meta
 
 extra_css:
   - css/extra_css.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/douglasdmarques/mkdocs
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/cia-hering
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:douglas.marques@ciahering.com.br

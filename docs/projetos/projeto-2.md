@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 #Projeto 2
 
 Mauris egestas eros metus, ac tempus tellus faucibus at. Nunc vel aliquam dolor, eu rhoncus urna. Duis sit amet efficitur ipsum. Aenean luctus nunc at est varius, id sollicitudin ipsum ullamcorper. Cras vel sem ligula. Pellentesque rhoncus dictum lectus, ut egestas sem feugiat a. Etiam non nisi quis massa tincidunt sollicitudin. Praesent ullamcorper ornare purus, eget auctor tellus vestibulum eget. Sed at viverra mauris. Integer quis lorem a eros laoreet blandit a quis nulla. Sed vel fringilla nibh. Donec tincidunt ultricies est eget feugiat. Donec sapien metus, venenatis non ipsum eu, malesuada faucibus nisi.

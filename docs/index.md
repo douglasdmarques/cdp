@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 ######Home
 # Central de Documentação de Projetos - Cia Hering
 
